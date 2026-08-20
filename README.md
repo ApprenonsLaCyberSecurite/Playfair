@@ -8,3 +8,4 @@ Ici vous trouverez les ressources nécessaires pour reproduire ce qui est fait d
 3/ lancer le script python compteurQuadgramme.py pour populer la base avec les scores des quadgrammes<br>
 4/ lancer le script python cryptanalysePlayfair_v2.py pour déchiffrer le texte<br>
 
+$$\\color{red}\\textit{N'oubliez pas de changer le host, le login, le mot de passe et le nom de la base de donnée dans chacun des scripts python avec votre paramétrage avant de les lancer}$$
